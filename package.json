@@ -61,7 +61,7 @@
 		"@ava/babel-preset-transform-test-files": "^6.0.0",
 		"@babel/core": "^7.6.0",
 		"@babel/generator": "^7.6.0",
-		"@concordance/react": "^2.0.0",
+		"@concordance/react": "concordancejs/react#fix-memo",
 		"ansi-escapes": "^4.2.1",
 		"ansi-styles": "^4.1.0",
 		"arr-flatten": "^1.1.0",
